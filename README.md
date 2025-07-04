@@ -44,7 +44,7 @@ Dashboard: View purchased courses and course details
 
 How to Run:
 
-Clone the repo: git clone https://github.com/myusername/slacks-project1
+Clone the repo: git clone https://github.com/huseyingobekli/Slacks_ProjectMain
 
 Install dependencies: npm install
 
